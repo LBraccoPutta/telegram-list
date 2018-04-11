@@ -734,6 +734,7 @@
 * [@mcduckmusicbot](https://t.me/mcduckmusicbot) — McDuck MusicBot. Много хорошей музыки.
 * [@scloud_bot](https://t.me/scloud_bot) - Бот скачивающий музыку с Soundcloud
 
+
 ##### Полезные боты для разработки
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
@@ -744,6 +745,7 @@
 
 ##### Прочие боты
 * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса
+* [@anax_bot](https://t.me/anax_bot) - Бот скачивающий фото с Инстаграмма
 * [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
 * [@fakemailbot](https://t.me/fakemailbot) — Временная электронная почта на 10 минут
 * [@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) — Бот-таймер по методу "помидорки"
@@ -754,7 +756,7 @@
 * [@MyCookBot](https://t.me/MyCookBot) — Бот шеф-повар. База рецептов
 * [@SpamBot](https://t.me/SpamBot) — Узнать в бане ли в телеграме, или нет
 * [@AIPrismaBot](https://t.me/AIPrismaBot) — Призма Бот
-* [@BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)
+* [@BotFather](https://t.me/BotFather) — Бот для создания ботов
 * [@MyTeleCloudBot](https://t.me/MyTeleCloudBot) — облачный бот ?
 * [@mybookbot](https://t.me/mybookbot) — Бот-поисковик/скачиватель книг.
 * [@ru_tracker_bot](https://t.me/ru_tracker_bot) — Бот рутрекера
