@@ -728,10 +728,11 @@
 
 ##### Музыка и Радио
 * [@RadioBot](https://t.me/radiobot) — Бот в котором можно переслушать эфиры 40+ популярных российских радиостанций.
-* [@vkmusic_bot](https://t.me/vkmusic_bot) — Музыкальный бот ВК
+* [@vkmusic_bot](https://t.me/vkmusic_bot) — Бот скачивающий музыку с ВК
 * [@radiotgbot](https://t.me/radiotgbot) — Бот - Лучшее радио!
 * [@MelodyRobot](https://t.me/MelodyRobot) — Угадай мелодию бот
 * [@mcduckmusicbot](https://t.me/mcduckmusicbot) — McDuck MusicBot. Много хорошей музыки.
+* [@scloud_bot](https://t.me/scloud_bot) - Бот скачивающий музыку с Soundcloud
 
 ##### Полезные боты для разработки
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
@@ -746,7 +747,7 @@
 * [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
 * [@fakemailbot](https://t.me/fakemailbot) — Временная электронная почта на 10 минут
 * [@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) — Бот-таймер по методу "помидорки"
-* [@sp2txt_bot](https://t.me/sp2txt_bot) — Бот, превращающий речь в текст
+* [@sp2txt_bot](https://t.me/sp2txt_bot) — Бот превращающий речь в текст
 * [@AntiParkonBot](https://t.me/AntiParkonBot) — Бот выдаёт контакты автовладельца по номеру машины
 * [@NodKeys_bot](https://t.me/NodKeys_bot) — Ключница (может не работать)
 * [@AlertBot](https://t.me/AlertBot) — Бот-напоминалка удобный
