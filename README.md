@@ -167,12 +167,6 @@
 
 [(Назад к меню)](#Меню)
 
-##### Каналы с котиками
-* [Котизм](https://t.me/catizm) — Котизм - котозависимость, неизлечимая болезнь, когда хочется потискать всех котиков и кошечек, встречающихся на своём пути.
-* [Погладь кота](https://t.me/funkcat) — Коты в сложных жизненных ситуациях.
-
-[(Назад к меню)](#Меню)
-
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности
 * [Hacker News на русском](https://t.me/HNews) — Новости информационной безопасности
@@ -604,31 +598,6 @@
 
 [(Назад к меню)](#Меню)
 
-##### Вакансии и работа
-* [Jobs and Project Chat](https://t.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots
-* [Mobile Dev Jobs](https://t.me/mobile_jobs) — Чат по вакансиям разработчиков мобильных приложений
-* [JavaScript Jobs](https://t.me/javascript_jobs) — Чат про вакансии и работу в сфере JavaScript
-* [DevOps Jobs](https://t.me/devops_jobs) — Чат про вакансии и работу в сфере DevOps
-* [Битрикс работа](https://t.me/bitrix_work) — Чат про вакансии и работу в сфере Битрикса и IT
-* [Devall — Upwork](https://t.me/upworkcom) — Чат про Upwork для разработчиков
-* [QA](https://t.me/qa_jobs) — Чат про вакансии и работу в сфере тестирования
-* [QAIndia](https://t.me/qaIndia) - Чат про вакансии и работу в сфере тестирования для India
-* [Products Jobs](https://t.me/products_jobs) — Вакансии и запросы на поиск работы - управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX.
-* [Agile Jobs](https://t.me/agile_jobs) — Вакансии, связанные с Agile.
-* [FreeLance](https://t.me/getFreelance) — Чат для поиска фриланс заработка
-* [Microsoft Stack Jobs](https://t.me/microsoftstackjobs) — Чат для поиска работы в сфере Microsoft и других Enterprise технологии.
-* [ethereum_jobs](https://t.me/eth_jobs) — Вакансии по Ethereum - Эфириум
-* [Django Jobs](https://t.me/django_jobs) — Поиск и предложения работы в области Python/Django
-* [Telegram Job](https://t.me/myjobit) — Вакансии и резюме
-* [Ukraine Android Jobs](https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g) — Чат по вакансиям и проектам Android разработчиков Украины
-* [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
-* [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
-* [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
-* [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
-* [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
-
-[(Назад к меню)](#Меню)
-
 ##### Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM
 * [Products_ru](https://t.me/products_ru) — Чат про управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д.
 * [Agile_ru](https://t.me/agile_ru) — Общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности.
@@ -809,3 +778,30 @@
 * [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
 * [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.
 * [@GDGCensorBot](https://t.me/GDGCensorBot) - Бот для удаления матов и ругательств из чата.
+
+##### Вакансии и работа
+* [Jobs and Project Chat](https://t.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots
+* [Mobile Dev Jobs](https://t.me/mobile_jobs) — Чат по вакансиям разработчиков мобильных приложений
+* [JavaScript Jobs](https://t.me/javascript_jobs) — Чат про вакансии и работу в сфере JavaScript
+* [DevOps Jobs](https://t.me/devops_jobs) — Чат про вакансии и работу в сфере DevOps
+* [Битрикс работа](https://t.me/bitrix_work) — Чат про вакансии и работу в сфере Битрикса и IT
+* [Devall — Upwork](https://t.me/upworkcom) — Чат про Upwork для разработчиков
+* [QA](https://t.me/qa_jobs) — Чат про вакансии и работу в сфере тестирования
+* [QAIndia](https://t.me/qaIndia) - Чат про вакансии и работу в сфере тестирования для India
+* [Products Jobs](https://t.me/products_jobs) — Вакансии и запросы на поиск работы - управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX.
+* [Agile Jobs](https://t.me/agile_jobs) — Вакансии, связанные с Agile.
+* [FreeLance](https://t.me/getFreelance) — Чат для поиска фриланс заработка
+* [Microsoft Stack Jobs](https://t.me/microsoftstackjobs) — Чат для поиска работы в сфере Microsoft и других Enterprise технологии.
+* [ethereum_jobs](https://t.me/eth_jobs) — Вакансии по Ethereum - Эфириум
+* [Django Jobs](https://t.me/django_jobs) — Поиск и предложения работы в области Python/Django
+* [Telegram Job](https://t.me/myjobit) — Вакансии и резюме
+* [Ukraine Android Jobs](https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g) — Чат по вакансиям и проектам Android разработчиков Украины
+* [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
+* [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
+* [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
+* [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
+* [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
+
+[(Назад к меню)](#Меню)
+
+
